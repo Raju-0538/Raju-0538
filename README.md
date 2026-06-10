@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Raj Kumar**, a Python Full Stack Developer from Telangana, India.
+I'm **Raj Kumar**, a Python Full Stack Developer Trainee @codegnan.
 
 I enjoy building scalable web applications, exploring machine learning solutions, and learning modern technologies that solve real-world problems. My focus is on creating efficient applications with clean code, intuitive user experiences, and robust backend systems.
 
