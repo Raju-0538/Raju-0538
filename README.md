@@ -87,4 +87,11 @@ I enjoy building scalable web applications, exploring machine learning solutions
 * LinkedIn: www.linkedin.com/in/raj-kumar-garika-22a749367
 * Email: [rajkumar.gariki7@gmail.com](mailto:rajkumar.gariki7@gmail.com)
 
+
+## 🎯 Open to Opportunities
+
+- Software Developer Roles
+- Python Full Stack Developer Roles
+- Full Stack Development Internships
+
 ⚡ "Continuous learning and building real-world solutions through technology."
