@@ -84,7 +84,7 @@ I enjoy building scalable web applications, exploring machine learning solutions
 
 ## 📫 Connect With Me
 
-* LinkedIn: YOUR_LINKEDIN_URL
+* LinkedIn: www.linkedin.com/in/raj-kumar-garika-22a749367
 * Email: [rajkumar.gariki7@gmail.com](mailto:rajkumar.gariki7@gmail.com)
 
 ⚡ "Continuous learning and building real-world solutions through technology."
