@@ -1,76 +1,97 @@
-<h1>
-Hi there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30"/>
-</h1>
+# Hi there 👋
 
-I'm **Abinayateja**, a full-stack developer from Andhra Pradesh, India.  
-I build clean, functional applications that combine modern UI with structured backend logic.  
-My focus is on solving real-world problems through scalable architecture and thoughtful design.
+I'm **Raj Kumar**, a Python Full Stack Developer from Telangana, India.
+
+I enjoy building scalable web applications, exploring machine learning solutions, and learning modern technologies that solve real-world problems. My focus is on creating efficient applications with clean code, intuitive user experiences, and robust backend systems.
 
 ---
 
-## Tech Focus
+## 🚀 Tech Focus
 
-- Full-stack development with React and modern web technologies  
-- Backend architecture and API design  
-- AI-powered applications and intelligent automation  
-- Writing clean, maintainable, modular code  
-
----
-
-## Tech Stack
-
-**Frontend**
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005C97?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**AI & Tools**
-
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+* Python Full Stack Development
+* Responsive Web Application Development
+* Machine Learning & AI Applications
+* REST API Development
+* Cloud & DevOps Fundamentals
+* Cybersecurity & Network Security
 
 ---
 
-## Live Products
+## 💻 Tech Stack
 
-- 🔗 **[AI Resume Builder – Live Demo](https://abi-resume-builder.netlify.app/)**
-- 🔗 **[Personalized Learning Path Generator — Live Demo](https://plpg.netlify.app/)**
+### Frontend
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+### Backend & Database
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 
 ---
 
-## Achievements
+## 🔥 Featured Projects
 
-- 2nd Place — National Level MERN Stack Hackathon, SRKR Engineering College  
-- 2nd Place — National Level DevOps × Full Stack Hackathon, SRKR Engineering College  
-- Finalist — NxtWave × OpenAI State Level Buildathon  
+### DDoS Attack Detection Using Machine Learning
+
+* Hybrid Machine Learning model for detecting and classifying DDoS attacks.
+* Built using Autoencoders, Random Forest, and XGBoost.
+* Focused on improving detection accuracy and reducing false positives.
+
+### Portfolio Website
+
+* Responsive personal portfolio built using React.js.
+* Showcases projects, skills, certifications, and achievements.
+
+### Full Stack Web Applications
+
+* Developed authentication-based applications using React, Node.js, Flask, and SQL.
 
 ---
 
-## GitHub Stats
+## 🌱 Currently Learning
+
+* Advanced Python Full Stack Development
+* Cloud Computing (AWS)
+* Kubernetes & DevOps
+* Cybersecurity Fundamentals
+* Data Structures & Algorithms in Python
+
+---
+
+## 🏆 Achievements
+
+* Python Full Stack Developer Trainee @ Codegnan
+* 2nd Prize in 24hrs Hackathon conducted by SRKR Engineering college in MERN Stack
+* 2nd Prize in 24hrs Hackathon conducted by SRKR Engineering college in AWS Deployement
+* Hands-on Experience with AWS, Docker, and Modern Web Technologies
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abinayateja&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-## Connect
+## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinaya-teja-gaddam/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaddamabinayateja@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio533.netlify.app)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@webworld1974)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abinayateja)
+* LinkedIn: YOUR_LINKEDIN_URL
+* Email: [rajkumar.gariki7@gmail.com](mailto:rajkumar.gariki7@gmail.com)
+
+⚡ "Continuous learning and building real-world solutions through technology."
